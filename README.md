@@ -5,13 +5,6 @@ Una aplicación moderna desarrollada con **React + Vite** en el frontend y **Nod
 
 ---
 
-# 🍗 Cali Pollo Delivery - Sistema de Pedidos Web
-
-¡Bienvenido al repositorio oficial del sistema de pedidos en línea **Cali Pollo Delivery**! 🚀  
-Una aplicación moderna desarrollada con **React + Vite** en el frontend y **Node.js + Express** en el backend, enfocada en comida típica colombiana. 🇨🇴
-
----
-
 ## 📋 Actualización al 2 de septiembre de 2025
 
 ### ✨ Nuevas Funcionalidades Implementadas:
